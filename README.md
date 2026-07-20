@@ -12,7 +12,7 @@ Desenvolvedor Full Stack | Em constante evolução em desenvolvimento web
 
 ## Sobre mim
 
-Olá! Sou Phelipe Bassi, um desenvolvedor front-end em formação, com foco em criar interfaces modernas, funcionais e com boa experiência para o usuário. Estou aprimorando minhas habilidades em HTML, CSS, JavaScript e React, além de desenvolver projetos práticos que me ajudam a consolidar meu aprendizado.
+Olá! Sou Phelipe Bassi, um Desenvolvedor Full Stack em formação, com foco em criar interfaces modernas, funcionais e com boa experiência para o usuário. Estou aprimorando minhas habilidades em HTML, CSS, JavaScript e React, além de desenvolver projetos práticos que me ajudam a consolidar meu aprendizado.
 
 Tenho interesse em construir soluções simples, visualmente agradáveis e com boa usabilidade, sempre buscando evoluir com cada projeto.
 
