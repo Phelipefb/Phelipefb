@@ -35,7 +35,7 @@ Tenho interesse em construir soluções simples, visualmente agradáveis e com b
 
 ## Objetivos profissionais
 
-Meu objetivo é crescer como desenvolvedor front-end, construir uma base sólida em tecnologia e contribuir em projetos que tragam valor real. Estou em busca de oportunidades para aprender com equipes mais experientes, desenvolver minhas habilidades e evoluir na carreira.
+Meu objetivo é crescer como desenvolvedor full stack, construir uma base sólida em tecnologia e contribuir em projetos que tragam valor real. Estou em busca de oportunidades para aprender com equipes mais experientes, desenvolver minhas habilidades e evoluir na carreira.
 
 ## Contato
 
